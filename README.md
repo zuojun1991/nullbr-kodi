@@ -1,6 +1,6 @@
 # NullBR Kodi 影音库 - 自动播放方案
 
-> 在线点播nullbr.eu.org 的海量影视库（优先播放UHD杜比原盘iso），自动完成转存和云下载。
+> 在线点播 https://nullbr.eu.org 的海量影视库（优先播放UHD杜比原盘iso），自动完成转存和云下载。
 
 ---
 
