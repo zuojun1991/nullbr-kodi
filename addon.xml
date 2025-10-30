@@ -1,0 +1,32 @@
+<!-- addon.xml -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nullbr"
+       name="NullBR Movies & TV Shows"
+       version="1.1.0"
+       provider-name="NullBR">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+        <import addon="script.module.requests" version="2.31.0"/>
+        <import addon="script.module.simplecache" version="1.0.0"/> <!-- 新增依赖 -->
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">NullBR Movie & TV Library with 115 Cloud Integration</summary>
+        <description lang="en_GB">Browse and play movies and TV shows from NullBR lists with automatic 115 cloud transfer and streaming support. Requires a local server for 115 cloud operations.</description>
+        <platform>all</platform>
+        <license>GPL-3.0-only</license>
+        <website>https://nullbr.eu.org</website>
+        <news>
+v1.1.0 (2025-10-29)
+- Added support for TV Shows, Seasons, and Episodes.
+- Integrated TMDb for richer metadata (clearlogo, fanart, etc.).
+- Enhanced UI for TV Show navigation.
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

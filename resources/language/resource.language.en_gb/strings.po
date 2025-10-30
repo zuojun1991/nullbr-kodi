@@ -1,0 +1,211 @@
+# Kodi Media Center language file
+# Addon Name: NullBR Movies & TV Shows
+# Addon id: plugin.video.nullbr
+# Addon Provider: NullBR
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/xbmc-addons/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Category labels
+msgctxt "#30100"
+msgid "NullBR API"
+msgstr ""
+
+msgctxt "#30150"
+msgid "Metadata (TMDb)"
+msgstr ""
+
+msgctxt "#30200"
+msgid "115 Cloud Credentials"
+msgstr ""
+
+msgctxt "#30250"
+msgid "Server Settings"
+msgstr ""
+
+msgctxt "#30300"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30400"
+msgid "Cache"
+msgstr ""
+
+# NullBR API Settings
+msgctxt "#30101"
+msgid "App ID"
+msgstr ""
+
+msgctxt "#30102"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#30103"
+msgid "List IDs (comma separated)"
+msgstr ""
+
+# TMDb Settings
+msgctxt "#30151"
+msgid "TMDb API Key"
+msgstr ""
+
+msgctxt "#30161"
+msgid "API Key for The Movie Database (for logos, fanart, etc.)"
+msgstr ""
+
+# Server Settings
+msgctxt "#30201"
+msgid "Transfer Server URL"
+msgstr ""
+
+msgctxt "#30202"
+msgid "Rclone Mount Path (SMB/Local)"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Cookie UID"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Cookie CID"
+msgstr ""
+
+msgctxt "#30206"
+msgid "Cookie SEID"
+msgstr ""
+
+msgctxt "#30207"
+msgid "Target CID"
+msgstr ""
+
+# Playback Settings
+msgctxt "#30301"
+msgid "Auto Select Best Quality"
+msgstr ""
+
+msgctxt "#30302"
+msgid "Prefer Dolby Vision"
+msgstr ""
+
+msgctxt "#30303"
+msgid "Prefer ISO Files"
+msgstr ""
+
+msgctxt "#30304"
+msgid "Prefer 4K When Available"
+msgstr ""
+
+# Cache Settings
+msgctxt "#30401"
+msgid "Cache Movie Lists"
+msgstr ""
+
+msgctxt "#30402"
+msgid "Cache Duration (hours)"
+msgstr ""
+
+msgctxt "#30411"
+msgid "Enable caching of movie lists for faster loading"
+msgstr ""
+
+msgctxt "#30412"
+msgid "How long to keep cached data (1-168 hours)"
+msgstr ""
+
+# Menu Items
+msgctxt "#30500"
+msgid "My Movie Lists"
+msgstr ""
+
+msgctxt "#30501"
+msgid "Search Movies"
+msgstr ""
+
+msgctxt "#30502"
+msgid "Clear Cache"
+msgstr ""
+
+# Context Menu Items
+msgctxt "#30600"
+msgid "Select Quality (115)"
+msgstr ""
+
+msgctxt "#30601"
+msgid "Select Magnet"
+msgstr ""
+
+msgctxt "#30602"
+msgid "Movie Information"
+msgstr ""
+
+# Status Messages
+msgctxt "#30700"
+msgid "Loading list..."
+msgstr ""
+
+msgctxt "#30701"
+msgid "No movies found"
+msgstr ""
+
+msgctxt "#30702"
+msgid "No 115 resources found"
+msgstr ""
+
+msgctxt "#30703"
+msgid "No magnet resources found"
+msgstr ""
+
+msgctxt "#30704"
+msgid "Transfer failed"
+msgstr ""
+
+msgctxt "#30705"
+msgid "Cannot get play path"
+msgstr ""
+
+msgctxt "#30706"
+msgid "Cache cleared"
+msgstr ""
+
+msgctxt "#30707"
+msgid "Please configure list IDs in settings"
+msgstr ""
+
+msgctxt "#30708"
+msgid "Preparing playback..."
+msgstr ""
+
+msgctxt "#30709"
+msgid "Getting resources..."
+msgstr ""
+
+msgctxt "#30710"
+msgid "Transferring to 115..."
+msgstr ""
+
+msgctxt "#30711"
+msgid "Getting file path..."
+msgstr ""
+
+msgctxt "#30712"
+msgid "Select quality"
+msgstr ""
+
+# Pagination
+msgctxt "#30800"
+msgid "Next Page"
+msgstr ""
+
+msgctxt "#30801"
+msgid "Previous Page"
+msgstr ""

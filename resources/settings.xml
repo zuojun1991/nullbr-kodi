@@ -1,0 +1,37 @@
+<!-- settings.xml -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30100">
+        <setting label="30101" type="text" id="nullbr_app_id" default="" />
+        <setting label="30102" type="text" id="nullbr_api_key" default="" option="hidden" />
+        <setting label="30103" type="text" id="nullbr_lists" default="2142788,2142753" />
+    </category>
+
+    <category label="30150"> <!-- 新增 TMDb 分类 -->
+        <setting label="30151" type="text" id="tmdb_api_key" default="a9523b51b26975167b88103238645484" />
+    </category>
+    
+    <category label="30200">
+        <setting label="30204" type="text" id="cookie_uid" default="" />
+        <setting label="30205" type="text" id="cookie_cid" default="" />
+        <setting label="30206" type="text" id="cookie_seid" default="" />
+        <setting label="30207" type="text" id="target_cid" default="" />
+    </category>
+    
+    <category label="30250">
+        <setting label="30201" type="text" id="server_url" default="http://192.168.***:3000" />
+        <setting label="30202" type="text" id="rclone_mount" default="smb://192.168*****" />
+    </category>
+    
+    <category label="30300">
+        <setting label="30301" type="bool" id="auto_select_quality" default="true" />
+        <setting label="30302" type="bool" id="prefer_dolby_vision" default="true" />
+        <setting label="30303" type="bool" id="prefer_iso" default="true" />
+        <setting label="30304" type="bool" id="prefer_4k" default="true" />
+    </category>
+    
+    <category label="30400">
+        <setting label="30401" type="bool" id="cache_enabled" default="true" />
+        <setting label="30402" type="slider" id="cache_duration" default="24" range="1,1,168" option="int" />
+    </category>
+</settings>
