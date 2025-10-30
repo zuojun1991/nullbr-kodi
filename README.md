@@ -38,6 +38,9 @@
 
 [返回目录↑](#toc)
 
+<img width="490" height="250" alt="image" src="https://github.com/user-attachments/assets/5440af5e-406f-4afc-98c1-bcddff0c50d8" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f4a9775f-08e6-473c-96fc-57d9e6bdd30b" />
+
 ---
 
 ## 🛠️ 准备工作 <a id="prep"></a>
@@ -231,6 +234,7 @@ TARGET_CID  = "<云下载 CID>"
 2. 在插件**设置**中填写：
 
    * **NullBR**：`App ID`，`API Key`，`List IDs`（逗号分隔）。
+   * **TMDB API** '' 可填写在api.themoviedb.org申请的api，这样主页海报墙可以获取更多内容（clearlogo，同人画） 此项目需要做好host映射或者代理
    * **Server**：`Transfer Server URL`（例：`http://192.168.1.3:3000`）。
    * **Rclone Mount Path**：
 
